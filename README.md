@@ -12,4 +12,4 @@ ANGGOTA :
 
 LINK GOOGLE DRIVE : https://drive.google.com/drive/folders/1rUUiNA3Cdc82WTUoz_uB088NyfG1dVKh?hl=ID
 
-tes commit
+tes commit1
