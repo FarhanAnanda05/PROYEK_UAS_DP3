@@ -4,7 +4,7 @@ uses crt,math; //memanggil unit math untuk melakukan operasi matematika tingkat 
 label 
 1;
 
-type 
+type //ini record dari nasabah
     rec_nasabah = record
     nama : string;
     umur : integer;
